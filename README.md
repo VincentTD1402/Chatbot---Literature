@@ -35,7 +35,7 @@ Some features in our chatbot
 - Chatbot can search the answer and response with engine search
 - Chatbot can summarization the stories
 
-  ![DEMO](summarization.png)
+  ![DEMO](summarization.jpg)
 
   ![DEMO](tts.png)
 
