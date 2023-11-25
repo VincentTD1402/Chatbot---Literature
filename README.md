@@ -34,6 +34,7 @@ Some features in our chatbot
 - Chatbot can return the answer and the voice after
 - Chatbot can search the answer and response with engine search
 - Chatbot can summarization the stories
+
   ![DEMO](summarization.png)
 
   ![DEMO](tts.png)
