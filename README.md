@@ -34,11 +34,11 @@ Some features in our chatbot
 - Chatbot can return the answer and the voice after
 - Chatbot can search the answer and response with engine search
 - Chatbot can summarization the stories
-  ![DEMO]()
+  ![DEMO](summarization.png)
 
-  ![DEMO]()
+  ![DEMO](tts.png)
 
-  ![DEMO]()
+  ![DEMO](stt.png)
 # Run app
 
 ```
