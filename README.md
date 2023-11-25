@@ -1,8 +1,3 @@
-<!-- PROJECT LOGO -->
-<div align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Neurond.png" alt="Project Logo">
-</div>
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -19,7 +14,7 @@
 
 
 # Vietnam Literary Chatbot
-This is a literary assistant for Vietnamese students to seek out useful information related to stories, fairy tales, poems, etc. This chatbot is developed by Neurond Generative AI team: [Tien Dat Nguyen](https://github.com/tiendat1402), [Tuan Anh Nguyen](https://github.com/anhnguyen51098), and [Kan Pham](https://github.com/phamdinhkhanh)
+This is a literary assistant for Vietnamese students to seek out useful information related to stories, fairy tales, poems, etc. This chatbot is developed by AI team: [Tien Dat Nguyen](https://github.com/tiendat1402) and [Kan Pham](https://github.com/phamdinhkhanh)
 
 <img src="./docs/images/gen_team.png" style="display: flex;margin-left: auto;margin-right: auto;width:100%;" />
 
