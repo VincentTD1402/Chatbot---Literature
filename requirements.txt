@@ -1,0 +1,13 @@
+streamlit
+openai
+chromadb
+sentence_transformers
+openpyxl
+python-dotenv
+pydantic>=1.4.0,<2.0.0
+langchain
+chromadb==0.4.0
+scikit-learn
+beautifulsoup4
+google
+httpx
